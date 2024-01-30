@@ -1,0 +1,11 @@
+{
+  "name": "jenkins2024",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "D:\\dec_2023\\cypress\\e2e\\jenkins2024.cy.js"
+  },
+  "author": "Rohanchari",
+  "license": "ISC"
+}
